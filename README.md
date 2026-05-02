@@ -123,7 +123,8 @@ int main(void)
 
 ## ON:
 
-<img width="1201" height="1600" alt="WhatsApp Image 2026-05-02 at 9 32 15 AM" src="https://github.com/user-attachments/assets/36fac16c-ff63-457f-bd71-451d6e298402" />
+<img width="651" height="726" alt="image" src="https://github.com/user-attachments/assets/4ceb2985-9c16-4cfd-b577-9426b6b147ac" />
+
 
  
 ## Result
